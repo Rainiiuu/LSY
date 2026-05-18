@@ -456,4 +456,4 @@ API调用正确率:
 
 **项目名称**：AI智能体开发教学项目  
 **提交日期**：2026年5月  
-**项目地址**：https://github.com/example/ai-agent-teaching
+**项目地址**：https://github.com/Rainiiuu/LSY
